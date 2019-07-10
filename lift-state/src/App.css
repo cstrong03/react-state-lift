@@ -1,0 +1,10 @@
+.App{
+  text-align: center;
+}
+.counter > button, h4 {
+  display: inline-block;
+  margin: 20px;
+}
+button{
+  margin-top: 20px;
+}
